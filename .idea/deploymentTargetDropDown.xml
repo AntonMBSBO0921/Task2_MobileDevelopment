@@ -20,6 +20,9 @@
       <entry key="app.notificationapp">
         <State />
       </entry>
+      <entry key="app.toastapp">
+        <State />
+      </entry>
     </value>
   </component>
 </project>
